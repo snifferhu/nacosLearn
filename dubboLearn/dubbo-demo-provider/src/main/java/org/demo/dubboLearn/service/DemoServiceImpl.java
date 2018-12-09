@@ -1,8 +1,9 @@
-package org.demo.dubboLearn;
+package org.demo.dubboLearn.service;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
 import com.alibaba.dubbo.rpc.RpcContext;
+import org.demo.dubboLearn.DemoService;
 
 public class DemoServiceImpl implements DemoService {
     public String sayHello(String name) {

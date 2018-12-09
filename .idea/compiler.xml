@@ -12,11 +12,12 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="dubbo-demo-api" target="1.6" />
-      <module name="dubbo-demo-consumer" target="1.6" />
-      <module name="dubbo-demo-provider" target="1.6" />
+      <module name="dubbo-demo-api" target="1.5" />
+      <module name="dubbo-demo-consumer" target="1.5" />
+      <module name="dubbo-demo-dom" target="1.5" />
+      <module name="dubbo-demo-provider" target="1.5" />
       <module name="dubbodemoapi" target="1.5" />
-      <module name="dubboLearn" target="1.6" />
+      <module name="dubboLearn" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
